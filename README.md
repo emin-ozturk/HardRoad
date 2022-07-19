@@ -4,6 +4,8 @@ Amaç, ekranın kenarlarına ve engellere çarpmadan en fazla puanı almak.
 
 Ekrana her tıklandıığında ortadaki üçgen yön değiştirmektedir.
 
+Canvas kullanılarak geliştirilmiştir.
+
 https://user-images.githubusercontent.com/62982765/179786043-de375841-4c67-4ebb-a330-6862e7d8d993.mp4
 
 ![photo1633278686](https://user-images.githubusercontent.com/62982765/179787703-a7f64a17-096c-4349-a0d5-2a15a67f2b1e.jpeg)
